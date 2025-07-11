@@ -1,5 +1,9 @@
 # Rust Bitcoin lib
 
+This lib fetches the last bitcoin price from a service _https://blockchain.info/ticker_ and displays it on the page:
+
+![Screenshot](./screenshot.png)
+
 ## Build
 
 > $ cargo build
